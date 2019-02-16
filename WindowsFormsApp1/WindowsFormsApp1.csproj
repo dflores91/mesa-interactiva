@@ -59,17 +59,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -78,6 +79,54 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bolt-flash-attention-interface-gui-web-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camara-wireless-iot-equipment-electronics-hardware-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chip-iot-equipment-electronics-hardware-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-protect-security-gui-web-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize-scale-arrows-gui-web-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mobile-payment-iot-equipment-electronics-hardware-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smart-light-lamp-iot-equipment-electronics-hardware-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terra-astrology-constellation-galaxy-horoscope-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera-photopoint-location-map-place-spot-position-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moto g5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camara.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\almacenamiento.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bateria.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pantalla.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\procesador.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
