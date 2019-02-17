@@ -128,5 +128,32 @@
   <ItemGroup>
     <None Include="Resources\procesador.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\galaxy2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bateriag.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camarag.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colores.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\intelig.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pantallag.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preciog.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\procesadorg.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seguridad.JPG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

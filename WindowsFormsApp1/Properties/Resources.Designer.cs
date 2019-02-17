@@ -83,6 +83,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bateriag {
+            get {
+                object obj = ResourceManager.GetObject("bateriag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bolt_flash_attention_interface_gui_web_128 {
             get {
                 object obj = ResourceManager.GetObject("bolt-flash-attention-interface-gui-web-128", resourceCulture);
@@ -113,6 +123,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap camarag {
+            get {
+                object obj = ResourceManager.GetObject("camarag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap camera_photopoint_location_map_place_spot_position_128 {
             get {
                 object obj = ResourceManager.GetObject("camera-photopoint-location-map-place-spot-position-128", resourceCulture);
@@ -126,6 +146,36 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap chip_iot_equipment_electronics_hardware_128 {
             get {
                 object obj = ResourceManager.GetObject("chip-iot-equipment-electronics-hardware-128", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap colores {
+            get {
+                object obj = ResourceManager.GetObject("colores", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap galaxy2 {
+            get {
+                object obj = ResourceManager.GetObject("galaxy2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap intelig {
+            get {
+                object obj = ResourceManager.GetObject("intelig", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -193,9 +243,49 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pantallag {
+            get {
+                object obj = ResourceManager.GetObject("pantallag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap preciog {
+            get {
+                object obj = ResourceManager.GetObject("preciog", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap procesador {
             get {
                 object obj = ResourceManager.GetObject("procesador", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap procesadorg {
+            get {
+                object obj = ResourceManager.GetObject("procesadorg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap seguridad {
+            get {
+                object obj = ResourceManager.GetObject("seguridad", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
