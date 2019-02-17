@@ -49,6 +49,10 @@ namespace WindowsFormsApp1
                 case 1:
                     pictureBox1.Image = Properties.Resources.galaxy2;
                     break;
+
+                case 4:
+                    pictureBox1.Image = Properties.Resources.sony;
+                    break;
             }
         }
 
