@@ -166,4 +166,31 @@
   <data name="procesador" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\procesador.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="bateriag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bateriag.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camarag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camarag.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="colores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\colores.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="galaxy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\galaxy2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="intelig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\intelig.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pantallag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pantallag.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="preciog" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\preciog.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="procesadorg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\procesadorg.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="seguridad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\seguridad.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
