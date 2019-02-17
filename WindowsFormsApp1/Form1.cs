@@ -49,9 +49,15 @@ namespace WindowsFormsApp1
                 case 1:
                     pictureBox1.Image = Properties.Resources.galaxy2;
                     break;
-                case 2:
+                    
+                 case 2:
                     pictureBox1.Image = Properties.Resources.nokia_6_5;
                     break;
+                    
+                case 4:
+                    pictureBox1.Image = Properties.Resources.sony;
+                    break;
+                
             }
         }
 
@@ -80,7 +86,8 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
-                case 2:
+                    
+                 case 2:
                     Form imagen = new Form
                     {
                         Size = new Size(766, 402),
@@ -90,6 +97,19 @@ namespace WindowsFormsApp1
                     };
                     imagen.Show();
                     break;
+
+
+                case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(1170, 480),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.img_alt_sony
+                    };
+                    break
+                    imagen9.Show();
+                
             }
         }
 
@@ -128,6 +148,17 @@ namespace WindowsFormsApp1
                     };
                     imagen.Show();
                     break;
+                    
+                    case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(950, 300),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.bateria_sony
+                    };
+                    imagen9.Show();
+                    break;
             }
         }
 
@@ -156,6 +187,7 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                    
                 case 2:
                     Form imagen = new Form
                     {
@@ -165,6 +197,18 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.proN
                     };
                     imagen.Show();
+                    break;
+                    
+                 
+                case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(950, 300),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.procesador_sony
+                    };
+                    imagen9.Show();
                     break;
             }
         }
@@ -194,6 +238,7 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                    
                 case 2:
                     Form imagen = new Form
                     {
@@ -203,6 +248,17 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.hu
                     };
                     imagen.Show();
+                    break;
+                    
+                  case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(870, 500),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.img_alt2_sony
+                    };
+                    imagen9.Show();
                     break;
             }
         }
@@ -232,6 +288,7 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                    
                 case 2:
                     Form imagen = new Form
                     {
@@ -241,6 +298,17 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.j
                     };
                     imagen.Show();
+                    break;
+                    
+                    case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(1000, 400),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.camara_sony
+                    };
+                    imagen9.Show();
                     break;
             }
         }
@@ -270,6 +338,7 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                    
                 case 2:
                     Form imagen = new Form
                     {
@@ -279,6 +348,17 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.p
                     };
                     imagen.Show();
+                    break;
+                    
+                    case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(920, 440),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.pantalla_sony
+                    };
+                    imagen9.Show();
                     break;
             }
         }
@@ -308,6 +388,7 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                    
                 case 2:
                     Form imagen = new Form
                     {
@@ -317,6 +398,17 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.pre
                     };
                     imagen.Show();
+                    break;
+                    
+                    case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(750, 420),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.precio_sony
+                    };
+                    imagen9.Show();
                     break;
             }
         }
@@ -346,6 +438,7 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                    
                 case 2:
                     Form imagen = new Form
                     {
@@ -356,7 +449,17 @@ namespace WindowsFormsApp1
                     };
                     imagen.Show();
                     break;
-
+                    
+                    case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(960, 632),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.colores_sony
+                    };
+                    imagen9.Show();
+                    break;
             }
         }
     }
