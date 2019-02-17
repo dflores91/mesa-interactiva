@@ -182,5 +182,32 @@
   <ItemGroup>
     <None Include="Resources\sony.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\col.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\j.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nokia-6-5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\op.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

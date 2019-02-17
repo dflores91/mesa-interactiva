@@ -173,6 +173,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap col {
+            get {
+                object obj = ResourceManager.GetObject("col", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap colores {
             get {
                 object obj = ResourceManager.GetObject("colores", resourceCulture);
@@ -203,6 +213,7 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        
         internal static System.Drawing.Bitmap img_alt_sony {
             get {
                 object obj = ResourceManager.GetObject("img_alt_sony", resourceCulture);
@@ -216,6 +227,13 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap img_alt2_sony {
             get {
                 object obj = ResourceManager.GetObject("img_alt2_sony", resourceCulture);
+                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap hu {
+            get {
+                object obj = ResourceManager.GetObject("hu", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -226,6 +244,16 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap intelig {
             get {
                 object obj = ResourceManager.GetObject("intelig", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap j {
+            get {
+                object obj = ResourceManager.GetObject("j", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -283,6 +311,36 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap nokia_6_5 {
+            get {
+                object obj = ResourceManager.GetObject("nokia_6_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap op {
+            get {
+                object obj = ResourceManager.GetObject("op", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p {
+            get {
+                object obj = ResourceManager.GetObject("p", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pantalla {
             get {
                 object obj = ResourceManager.GetObject("pantalla", resourceCulture);
@@ -313,9 +371,26 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        
         internal static System.Drawing.Bitmap precio_sony {
             get {
                 object obj = ResourceManager.GetObject("precio_sony", resourceCulture);
+                 return ((System.Drawing.Bitmap)(obj));
+            }
+        
+        internal static System.Drawing.Bitmap po {
+            get {
+                object obj = ResourceManager.GetObject("po", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pre {
+            get {
+                object obj = ResourceManager.GetObject("pre", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -356,6 +431,16 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap procesadorg {
             get {
                 object obj = ResourceManager.GetObject("procesadorg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap proN {
+            get {
+                object obj = ResourceManager.GetObject("proN", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
