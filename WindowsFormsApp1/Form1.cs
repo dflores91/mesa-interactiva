@@ -81,6 +81,16 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.img_alt_sony
+                    };
+                    imagen9.Show();
+                    break;
             }
         }
 
@@ -108,6 +118,16 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.bateriag
                     };
                     imagen6.Show();
+                    break;
+                case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.bateria_sony
+                    };
+                    imagen9.Show();
                     break;
             }
         }
@@ -137,6 +157,16 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.procesador_sony
+                    };
+                    imagen9.Show();
+                    break;
             }
         }
 
@@ -164,6 +194,16 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.seguridad
                     };
                     imagen6.Show();
+                    break;
+                case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.img_alt2_sony
+                    };
+                    imagen9.Show();
                     break;
             }
         }
@@ -193,6 +233,16 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.camara_sony
+                    };
+                    imagen9.Show();
+                    break;
             }
         }
 
@@ -220,6 +270,16 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.pantallag
                     };
                     imagen6.Show();
+                    break;
+                case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.pantalla_sony
+                    };
+                    imagen9.Show();
                     break;
             }
         }
@@ -249,6 +309,16 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.precio_sony
+                    };
+                    imagen9.Show();
+                    break;
             }
         }
 
@@ -276,6 +346,16 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.colores
                     };
                     imagen6.Show();
+                    break;
+                case 4:
+                    Form imagen9 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.colores_sony
+                    };
+                    imagen9.Show();
                     break;
             }
         }
