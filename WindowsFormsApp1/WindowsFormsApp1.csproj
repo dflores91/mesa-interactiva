@@ -126,7 +126,37 @@
     <None Include="Resources\pantalla.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\AsistenteCom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camara1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camara2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Iluminacionp20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Juegos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P20lite.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pilap20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\procesador.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProcesamientoP20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InteligenciaFo.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
