@@ -155,5 +155,32 @@
   <ItemGroup>
     <None Include="Resources\seguridad.JPG" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bateria_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camara_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colores_sony.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_alt_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_alt2_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pantalla_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\precio_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\procesador_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sony.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

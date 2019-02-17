@@ -118,79 +118,106 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="maximize-scale-arrows-gui-web-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\maximize-scale-arrows-gui-web-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="terra-astrology-constellation-galaxy-horoscope-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terra-astrology-constellation-galaxy-horoscope-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="smart-light-lamp-iot-equipment-electronics-hardware-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\smart-light-lamp-iot-equipment-electronics-hardware-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lock-protect-security-gui-web-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lock-protect-security-gui-web-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="terra-astrology-constellation-galaxy-horoscope-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\terra-astrology-constellation-galaxy-horoscope-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mobile-payment-iot-equipment-electronics-hardware-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mobile-payment-iot-equipment-electronics-hardware-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="camara" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\camara.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="procesador" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\procesador.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="camara-wireless-iot-equipment-electronics-hardware-256" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\camara-wireless-iot-equipment-electronics-hardware-256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="chip-iot-equipment-electronics-hardware-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\chip-iot-equipment-electronics-hardware-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="camera-photopoint-location-map-place-spot-position-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\camera-photopoint-location-map-place-spot-position-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bolt-flash-attention-interface-gui-web-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bolt-flash-attention-interface-gui-web-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="moto g5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\moto g5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="almacenamiento" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\almacenamiento.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bateria" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bateria.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pantalla" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pantalla.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="procesador" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\procesador.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bateriag" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bateriag.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="camarag" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\camarag.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="colores" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\colores.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="galaxy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\galaxy2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="preciog" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\preciog.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="intelig" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\intelig.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="mobile-payment-iot-equipment-electronics-hardware-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mobile-payment-iot-equipment-electronics-hardware-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chip-iot-equipment-electronics-hardware-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chip-iot-equipment-electronics-hardware-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maximize-scale-arrows-gui-web-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maximize-scale-arrows-gui-web-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bateriag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bateriag.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camera-photopoint-location-map-place-spot-position-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camera-photopoint-location-map-place-spot-position-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="almacenamiento" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\almacenamiento.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pantallag" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pantallag.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="preciog" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\preciog.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="moto g5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\moto g5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camara" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camara.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bateria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bateria.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="galaxy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\galaxy2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="seguridad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\seguridad.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pantalla" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pantalla.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="colores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\colores.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="procesadorg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\procesadorg.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="seguridad" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\seguridad.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="camarag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camarag.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lock-protect-security-gui-web-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lock-protect-security-gui-web-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bolt-flash-attention-interface-gui-web-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bolt-flash-attention-interface-gui-web-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bateria_sony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bateria_sony.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camara_sony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camara_sony.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="colores_sony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\colores_sony.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img_alt_sony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img_alt_sony.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img_alt2_sony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img_alt2_sony.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pantalla_sony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pantalla_sony.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="precio_sony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\precio_sony.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="procesador_sony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\procesador_sony.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sony.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
