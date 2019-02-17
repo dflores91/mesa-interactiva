@@ -273,6 +273,7 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+
             }
         }
     }
