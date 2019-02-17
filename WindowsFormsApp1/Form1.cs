@@ -207,6 +207,16 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+                case 1:
+                    Form imagen6 = new Form
+                    {
+                        Size = new Size(940, 300),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.pantallag
+                    };
+                    imagen6.Show();
+                    break;
             }
         }
 
