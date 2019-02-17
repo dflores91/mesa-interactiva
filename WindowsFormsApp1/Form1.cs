@@ -84,7 +84,7 @@ namespace WindowsFormsApp1
                 case 4:
                     Form imagen9 = new Form
                     {
-                        Size = new Size(766, 402),
+                        Size = new Size(1170, 480),
                         MinimizeBox = false,
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.img_alt_sony
@@ -122,7 +122,7 @@ namespace WindowsFormsApp1
                 case 4:
                     Form imagen9 = new Form
                     {
-                        Size = new Size(766, 402),
+                        Size = new Size(950, 300),
                         MinimizeBox = false,
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.bateria_sony
@@ -160,7 +160,7 @@ namespace WindowsFormsApp1
                 case 4:
                     Form imagen9 = new Form
                     {
-                        Size = new Size(766, 402),
+                        Size = new Size(950, 300),
                         MinimizeBox = false,
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.procesador_sony
@@ -198,7 +198,7 @@ namespace WindowsFormsApp1
                 case 4:
                     Form imagen9 = new Form
                     {
-                        Size = new Size(766, 402),
+                        Size = new Size(870, 500),
                         MinimizeBox = false,
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.img_alt2_sony
@@ -236,7 +236,7 @@ namespace WindowsFormsApp1
                 case 4:
                     Form imagen9 = new Form
                     {
-                        Size = new Size(766, 402),
+                        Size = new Size(1000, 400),
                         MinimizeBox = false,
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.camara_sony
@@ -274,7 +274,7 @@ namespace WindowsFormsApp1
                 case 4:
                     Form imagen9 = new Form
                     {
-                        Size = new Size(766, 402),
+                        Size = new Size(920, 440),
                         MinimizeBox = false,
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.pantalla_sony
@@ -312,7 +312,7 @@ namespace WindowsFormsApp1
                 case 4:
                     Form imagen9 = new Form
                     {
-                        Size = new Size(766, 402),
+                        Size = new Size(750, 420),
                         MinimizeBox = false,
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.precio_sony
@@ -350,7 +350,7 @@ namespace WindowsFormsApp1
                 case 4:
                     Form imagen9 = new Form
                     {
-                        Size = new Size(766, 402),
+                        Size = new Size(960, 632),
                         MinimizeBox = false,
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.colores_sony
