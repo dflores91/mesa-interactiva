@@ -372,11 +372,14 @@ namespace WindowsFormsApp1.Properties {
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
         
-        internal static System.Drawing.Bitmap precio_sony {
-            get {
+        internal static System.Drawing.Bitmap precio_sony
+        {
+            get
+            {
                 object obj = ResourceManager.GetObject("precio_sony", resourceCulture);
-                 return ((System.Drawing.Bitmap)(obj));
+                return ((System.Drawing.Bitmap)(obj));
             }
+        }
         
         internal static System.Drawing.Bitmap po {
             get {

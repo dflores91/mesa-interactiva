@@ -107,8 +107,9 @@ namespace WindowsFormsApp1
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.img_alt_sony
                     };
-                    break
                     imagen9.Show();
+                    break;
+                    
                 
             }
         }
