@@ -94,7 +94,17 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.bateria
                     };
                     imagen5.Show();
-                break;
+                    break;
+                case 1:
+                    Form imagen6 = new Form
+                    {
+                        Size = new Size(660, 235),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.bateriag
+                    };
+                    imagen6.Show();
+                    break;
             }
         }
 
