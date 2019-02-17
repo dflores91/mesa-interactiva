@@ -45,6 +45,10 @@ namespace WindowsFormsApp1
                 case 0: //se compara para saber que telefono es y asi mostrar la imagen 
                     pictureBox1.Image = Properties.Resources.moto_g5;
                 break;
+
+                case 1:
+                    pictureBox1.Image = Properties.Resources.galaxy2;
+                    break;
             }
         }
 
