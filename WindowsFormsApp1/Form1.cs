@@ -346,6 +346,7 @@ namespace WindowsFormsApp1
                     };
                     imagen6.Show();
                     break;
+                case 2:
                     Form imagen = new Form
                     {
                         Size = new Size(766, 402),
