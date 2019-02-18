@@ -159,7 +159,7 @@ namespace WindowsFormsApp1
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.pilap20
                     };
-                    imagen8.Show();
+                    imagen.Show();
                     break;
                     
                     case 3:
@@ -170,7 +170,7 @@ namespace WindowsFormsApp1
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.op
                     };
-                    imagen.Show();
+                    imagen8.Show();
                     break;
                     
                     case 4:
@@ -224,7 +224,7 @@ namespace WindowsFormsApp1
                     imagen.Show();
                     break;
                     
-                    case 3:
+                case 3:
                     Form imagen8 = new Form
                     {
                         Size = new Size(650, 450),
@@ -233,6 +233,7 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.ProcesamientoP20
                     };
                     imagen8.Show();
+                    break;
                  
                 case 4:
                     Form imagen9 = new Form
@@ -468,7 +469,9 @@ namespace WindowsFormsApp1
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.InteligenciaFo
                     };
-                    imagen8.Show();
+                    imagen.Show();
+                    break;
+
                   case 3:
                     Form imagen8 = new Form
                     {
@@ -477,7 +480,7 @@ namespace WindowsFormsApp1
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.pre
                     };
-                    imagen.Show();
+                    imagen8.Show();
                     break;
                     
                     case 4:
