@@ -69,10 +69,10 @@ namespace WindowsFormsApp1
                 case 3:
                     Form imagen8 = new Form
                     {
-                        Size = new Size(766, 402),
+                        Size = new Size(650, 450),
                         MinimizeBox = false,
                         MaximizeBox = false,
-                        BackgroundImage = Properties.Resources.camara1
+                        BackgroundImage = Properties.Resources.camara2
                     };
                     imagen8.Show();
                     break;
@@ -185,7 +185,7 @@ namespace WindowsFormsApp1
                         Size = new Size(700, 450),
                         MinimizeBox = false,
                         MaximizeBox = false,
-                        BackgroundImage = Properties.Resources.camara2
+                        BackgroundImage = Properties.Resources.camara1
                     };
                     imagen8.Show();
                     break;
