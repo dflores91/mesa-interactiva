@@ -158,5 +158,86 @@
   <ItemGroup>
     <None Include="Resources\ProcesamientoP20.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\galaxy2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bateriag.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camarag.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colores.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\intelig.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pantallag.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preciog.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\procesadorg.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seguridad.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bateria_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camara_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colores_sony.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_alt_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_alt2_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pantalla_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\precio_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\procesador_sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sony.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\col.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\j.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nokia-6-5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\op.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
