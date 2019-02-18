@@ -40,7 +40,7 @@ namespace WindowsFormsApp1
                 button8.Visible = true;
             }
 
-            switch(p)
+            switch (p)
             {
                 case 0: //se compara para saber que telefono es y asi mostrar la imagen 
                     pictureBox1.Image = Properties.Resources.moto_g5;
@@ -54,10 +54,13 @@ namespace WindowsFormsApp1
                     pictureBox1.Image = Properties.Resources.nokia_6_5;
                     break;
                     
+                case 3: //se compara para saber que telefono es y asi mostrar la imagen 
+                    pictureBox1.Image = Properties.Resources.P20lite;
+                    break;
+                    
                 case 4:
                     pictureBox1.Image = Properties.Resources.sony;
                     break;
-                
             }
         }
 
@@ -97,6 +100,17 @@ namespace WindowsFormsApp1
                     };
                     imagen.Show();
                     break;
+                    
+                    case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(650, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.camara2
+                    };
+                    imagen8.Show();
+                    break;
 
 
                 case 4:
@@ -109,8 +123,6 @@ namespace WindowsFormsApp1
                     };
                     imagen9.Show();
                     break;
-                    
-                
             }
         }
 
@@ -143,6 +155,17 @@ namespace WindowsFormsApp1
                     Form imagen = new Form
                     {
                         Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.pilap20
+                    };
+                    imagen8.Show();
+                    break;
+                    
+                    case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(650, 450),
                         MinimizeBox = false,
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.op
@@ -178,6 +201,7 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+                    
                 case 1:
                     Form imagen6 = new Form
                     {
@@ -200,6 +224,15 @@ namespace WindowsFormsApp1
                     imagen.Show();
                     break;
                     
+                    case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(650, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.ProcesamientoP20
+                    };
+                    imagen8.Show();
                  
                 case 4:
                     Form imagen9 = new Form
@@ -229,6 +262,7 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+                    
                 case 1:
                     Form imagen6 = new Form
                     {
@@ -249,6 +283,17 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.hu
                     };
                     imagen.Show();
+                    break;
+                    
+                  case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(650, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.Iluminacionp20
+                    };
+                    imagen8.Show();
                     break;
                     
                   case 4:
@@ -279,6 +324,7 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+                    
                 case 1:
                     Form imagen6 = new Form
                     {
@@ -299,6 +345,17 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.j
                     };
                     imagen.Show();
+                    break;
+                    
+                  case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(700, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.camara1
+                    };
+                    imagen8.Show();
                     break;
                     
                     case 4:
@@ -329,6 +386,7 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+                    
                 case 1:
                     Form imagen6 = new Form
                     {
@@ -349,6 +407,17 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.p
                     };
                     imagen.Show();
+                    break;
+                    
+                  case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(650, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.AsistenteCom
+                    };
+                    imagen8.Show();
                     break;
                     
                     case 4:
@@ -379,6 +448,7 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+                    
                 case 1:
                     Form imagen6 = new Form
                     {
@@ -394,6 +464,15 @@ namespace WindowsFormsApp1
                     Form imagen = new Form
                     {
                         Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.InteligenciaFo
+                    };
+                    imagen8.Show();
+                  case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(750, 420),
                         MinimizeBox = false,
                         MaximizeBox = false,
                         BackgroundImage = Properties.Resources.pre
@@ -429,6 +508,7 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+                    
                 case 1:
                     Form imagen6 = new Form
                     {
@@ -449,6 +529,17 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.col
                     };
                     imagen.Show();
+                    break;
+                    
+                  case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(650, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.Juegos
+                    };
+                    imagen8.Show();
                     break;
                     
                     case 4:
