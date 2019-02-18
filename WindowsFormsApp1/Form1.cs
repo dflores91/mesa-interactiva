@@ -40,11 +40,14 @@ namespace WindowsFormsApp1
                 button8.Visible = true;
             }
 
-            switch(p)
+            switch (p)
             {
                 case 0: //se compara para saber que telefono es y asi mostrar la imagen 
                     pictureBox1.Image = Properties.Resources.moto_g5;
-                break;
+                    break;
+                case 3: //se compara para saber que telefono es y asi mostrar la imagen 
+                    pictureBox1.Image = Properties.Resources.P20lite;
+                    break;
             }
         }
 
@@ -63,6 +66,16 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+                case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.camara1
+                    };
+                    imagen8.Show();
+                    break;
             }
         }
 
@@ -80,7 +93,18 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.bateria
                     };
                     imagen5.Show();
-                break;
+                    break;
+
+                case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.pilap20
+                    };
+                    imagen8.Show();
+                    break;
             }
         }
 
@@ -98,6 +122,16 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.procesador
                     };
                     imagen5.Show();
+                    break;
+                case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(650, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.ProcesamientoP20
+                    };
+                    imagen8.Show();
                     break;
             }
         }
@@ -117,6 +151,16 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+                case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(650, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.Iluminacionp20
+                    };
+                    imagen8.Show();
+                    break;
             }
         }
 
@@ -134,6 +178,16 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.camara
                     };
                     imagen5.Show();
+                    break;
+                case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(700, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.camara2
+                    };
+                    imagen8.Show();
                     break;
             }
         }
@@ -153,6 +207,17 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+
+                case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(650, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.AsistenteCom
+                    };
+                    imagen8.Show();
+                    break;
             }
         }
 
@@ -171,6 +236,16 @@ namespace WindowsFormsApp1
                     };
                     imagen5.Show();
                     break;
+                case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(766, 402),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.InteligenciaFo
+                    };
+                    imagen8.Show();
+                    break;
             }
         }
 
@@ -188,6 +263,17 @@ namespace WindowsFormsApp1
                         BackgroundImage = Properties.Resources.camara
                     };
                     imagen5.Show();
+                    break;
+
+                case 3:
+                    Form imagen8 = new Form
+                    {
+                        Size = new Size(650, 450),
+                        MinimizeBox = false,
+                        MaximizeBox = false,
+                        BackgroundImage = Properties.Resources.Juegos
+                    };
+                    imagen8.Show();
                     break;
             }
         }
